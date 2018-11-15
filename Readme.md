@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Program.cs](./CS/AddBookmarks/Program.cs) (VB: [Program.vb](./VB/AddBookmarks/Program.vb))
+<!-- default file list end -->
 # How to add bookmarks to a document
 
 
